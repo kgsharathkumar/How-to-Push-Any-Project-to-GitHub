@@ -75,6 +75,11 @@ git commit -m "First commit"
 
 git push origin master 
 
+or use below this command if you found any error in push
+
+git push --force https://github.com/kgsharathkumar/How-to-Push-Any-Project-to-GitHub.git
+
+
   
  
   
